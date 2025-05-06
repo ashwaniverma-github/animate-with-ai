@@ -1,0 +1,26 @@
+# Python-related
+*.pyc
+*.pyo
+__pycache__/
+*.log
+
+# Virtual environment
+venv/
+.env
+
+# Manim output files
+media/videos/
+media/images/
+media/texts/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Git-specific
+*.swp
+*.swo
