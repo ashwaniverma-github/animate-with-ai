@@ -1,5 +1,4 @@
 from manim import *
-
 class TestAnimation(Scene):
     def construct(self):
         # Create a circle
